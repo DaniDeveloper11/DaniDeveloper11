@@ -1,4 +1,4 @@
-![Miguel Briseño - Full Stack Developer](https://media.licdn.com/dms/image/v2/D4E16AQE7hEVVswVGTg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719243542205?e=1729728000&v=beta&t=h5eOI_CiUFjpEnl2DvE-27Akiq9sMrn7Kj646Q-QNyw)
+![Miguel Briseño - Full Stack Developer](https://media.licdn.com/dms/image/v2/D4E16AQEz8A07BgZm-w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724123322156?e=1729728000&v=beta&t=p5xpbNDYtp2fvxLu5P49e0soWMvQ2Ucr3bn2SeP14yw)
 
 ## Hi there 👋, I’m Daniel Montes 💻
 
