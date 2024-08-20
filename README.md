@@ -30,8 +30,8 @@ I'm a software developer with a focusing particularly on Frontend. My main objet
 
 ### 📫 How to Reach Me
 - [LinkedIn](linkedin.com/in/angel-daniel-montes-villarreal-28686a258)
-- - [Portfolio](danideveloper11.github.io/my-portfolio/#/ )
+- [Portfolio](https://danideveloper11.github.io/my-portfolio/#/)
 - [Email](mailto:angel.montes0498@gmail.com)
 
 ### ⚡ Fun Fact
-- When I'm not coding, you'll find me working out, exploring physics and technology, or dreaming up new business ideas.
+- When I'm not coding, I try to redirect my free time to activities for personal growth, such as reading books, listening to podcasts, and taking online courses. 
