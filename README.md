@@ -1,4 +1,3 @@
-![Miguel Briseño - Full Stack Developer](https://media.licdn.com/dms/image/v2/D4E16AQEz8A07BgZm-w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724123322156?e=1729728000&v=beta&t=p5xpbNDYtp2fvxLu5P49e0soWMvQ2Ucr3bn2SeP14yw)
 
 ## Hi there 👋, I’m Daniel Montes 💻
 
